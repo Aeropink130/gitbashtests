@@ -1,2 +1,0 @@
-segundo archivo de prueba tambien con git bash
-prueba para segundo commit
